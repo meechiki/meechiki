@@ -9,10 +9,11 @@
 
 ### Tech Stack
 
-* 💻 Visual Studio Code      * 💻 Python
-* 📱 Flutter & Dart          * ⚙️ C / C++
-* 🎨 Figma                   * 🌐 JavaScript      
-* 🧩 Antigravity             * 🔥 Firebase
+* 💻 Python / C / C++ / JavaScript 
+* 🔥 Firebase
+* 📱 Flutter & Dart          
+* 🎨 Figma    
+* 🧩 Antigravity            
 * 📝 Microsoft Office
 
 ### Beyond Coding
