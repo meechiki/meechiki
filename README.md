@@ -9,7 +9,7 @@
 
 ### Tech Stack
 
-* 💻 Python / C / C++ / JavaScript 
+* 💻 Python / C / C++ / JavaScript / HTML
 * 🔥 Firebase
 * 📱 Flutter & Dart          
 * 🎨 Figma    
