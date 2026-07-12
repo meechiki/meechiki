@@ -9,24 +9,11 @@
 
 ### Tech Stack
 
-* 🔥 Firebase
-* 📱 Flutter & Dart
-* 💻 Python
-* ⚙️ C / C++
-* 🌐 JavaScript
-* 🎨 Figma
-* 🧩 Antigravity
+* 💻 Visual Studio Code      * 💻 Python
+* 📱 Flutter & Dart          * ⚙️ C / C++
+* 🎨 Figma                   * 🌐 JavaScript      
+* 🧩 Antigravity             * 🔥 Firebase
 * 📝 Microsoft Office
-* 💻 Visual Studio Code
-
-### Currently Learning
-
-* System Architecture
-* Backend Development
-* REST APIs
-* Database Design
-* Performance Optimization
-* Artificial Intelligence
 
 ### Beyond Coding
 
